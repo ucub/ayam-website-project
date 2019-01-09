@@ -1,2 +1,2 @@
 # AyamKu-Website
-Website admin for AyamKu App
+Website admin for AyamKu App from Mr Ajib Susanto
