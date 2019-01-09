@@ -1,1 +1,2 @@
-# ayam-website-project
+# AyamKu-Website
+Website admin for AyamKu App
